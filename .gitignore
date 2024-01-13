@@ -1,0 +1,5 @@
+# Ignore MNIST folder
+MNIST/
+
+# Ignore __pycache__ directory
+__pycache__/
