@@ -33,7 +33,7 @@ def train(_net, _dataset, nepochs):
 def main():
     net = Net()
     dataset = NetDataset(net)
-    train(net, dataset, nepochs = 2)
+    train(net, dataset, nepochs = 30)
 
 if __name__ == '__main__':
     main()

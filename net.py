@@ -17,9 +17,6 @@ class Net:
         # pas d'apprentissage
         self.alpha = 0.05
 
-        # nombre d'époques d'apprentissage
-        self.nepochs = 30
-
         # taille des mini-batches
         self.m = 10
 
